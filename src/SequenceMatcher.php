@@ -11,7 +11,7 @@ namespace Jfcherng\Diff;
  *
  * @see https://docs.python.org/3/library/difflib.html
  */
-final class SequenceMatcher
+class SequenceMatcher
 {
     /** @var int 0, opcode: no operation */
     public const OP_NOP = 0;
