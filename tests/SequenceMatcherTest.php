@@ -13,7 +13,7 @@ use PHPUnit\Framework\TestCase;
  *
  * @internal
  */
-final class SequenceMatcherTest extends TestCase
+class SequenceMatcherTest extends TestCase
 {
     /**
      * The SequenceMatcher object.
